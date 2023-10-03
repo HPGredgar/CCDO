@@ -1,5 +1,5 @@
 hemp.hackdot.addappdata  I , ; :: INDEX ;  "preferred" , .D d <PACKDROP_less> || i :: ;; , argue <"*Tick"> , ; , E:DICO .dok <HREF .lmo> <html> <cob> <fob> <pir> </html> </body>
- <dot> MOS DATALOC_ 
+ <dot> DATALOC_ ;; || 
   <bios>
    <$app.cachedata>
     <"tir">
