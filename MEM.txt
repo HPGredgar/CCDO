@@ -1,0 +1,21 @@
+. bot
+<,IMEI> : LOCAL <ids>
+.idso =<ido> IBOS || ;; INDEX ROOT.Layout.mediapicker
+optional.manual-dev toggle.tooltip-hotbar <JEV-dot . , ;;>
+jev <ido> =imbo=<IMO , "mum" , >
+JAVA ROM .ido .iso <hipcrit_IDDO> = <"",","> = INDEX ;;||peremeter
+<::PARAMETER+ . , $APPCACHE >
+<body> <sys - . .ido ,>
+<mod> <d , <file=loaderdok_drydock> = DOK= - "," > , item . Systempack.loader DOCKERfile c
+</.dockerfile> <sys> </isp> </n> <load_DOCKERfile.ido> ,
+</>
+input
+/
+/
+</body>
+</DOK>
+<INDEX=-bridge_text.item , "" , IBOS >
+<TEXTBODY> is INPUT local , #DEX /
+</>
+</>
+//Save System Cache_DATA BEFORE WIPE! IMPORTANT!
