@@ -1,0 +1,13 @@
+#
+DATA
+ .dot
+  bos
+   .::;;||INDEX_SPECIFIC-PEREMETER dot . <"Specific" dok , >
+     </>
+        PEREMETER::||;;Item-INDEX C , "host" [accessability] -format_appcache.data .appdata 
+            INDEX;;PEREMETER|| , "Item" <, local-variable > \\ lib :: {}
+    do not lib INT is loc
+    output 
+/
+<bod> 
+//The Print Body is Text Only untill Comprised Version is Stable.  Compression is only Accessable when Contrubutions are administered.
